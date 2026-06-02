@@ -1,0 +1,39 @@
+{
+  "report_id": "20260531_004452",
+  "created_at": "2026-05-31 00:44:53",
+  "source_video": "C:\\Users\\maksi\\Downloads\\Gun_Action_Recognition_Dataset\\Gun_Action_Recognition_Dataset\\No_Gun\\N1_C1_P2_V1_HB_1\\video.mp4",
+  "report_dir": "history\\reports\\20260531_004452",
+  "processed_video_path": "history\\reports\\20260531_004452\\processed_video.mp4",
+  "has_person_with_weapon": true,
+  "events": [
+    {
+      "start_frame": 13,
+      "end_frame": 153,
+      "duration_frames": 141,
+      "start_time_sec": 0.48,
+      "end_time_sec": 6.08,
+      "duration_sec": 5.64
+    }
+  ],
+  "clips": [
+    {
+      "event_index": 1,
+      "clip_path": "history\\reports\\20260531_004452\\clips\\event_001_1_178.mp4",
+      "start_frame": 1,
+      "end_frame": 178,
+      "start_time_sec": 0.0,
+      "end_time_sec": 7.08
+    }
+  ],
+  "settings": {
+    "conf": 0.5,
+    "imgsz": 640,
+    "iou": 0.5,
+    "min_consecutive": 10
+  },
+  "performance": {
+    "elapsed_sec": 6.563813209533691,
+    "fps_processing": 30.470093163149055,
+    "sec_per_frame": 0.03281906604766846
+  }
+}

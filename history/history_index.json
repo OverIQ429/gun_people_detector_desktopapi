@@ -1,0 +1,506 @@
+[
+  {
+    "report_id": "20260602_191503",
+    "created_at": "2026-06-02 19:15:03",
+    "source_video": "C:\\Users\\maksi\\Downloads\\Gun_Action_Recognition_Dataset\\Gun_Action_Recognition_Dataset\\Machine_Gun\\PCW8_C1_P2_V1_HB_4\\video.mp4",
+    "report_dir": "history\\reports\\20260602_191503",
+    "processed_video_path": "history\\reports\\20260602_191503\\processed_video.mp4",
+    "has_person_with_weapon": true,
+    "events": [
+      {
+        "start_frame": 53,
+        "end_frame": 65,
+        "duration_frames": 13,
+        "start_time_sec": 2.08,
+        "end_time_sec": 2.56,
+        "duration_sec": 0.52
+      },
+      {
+        "start_frame": 79,
+        "end_frame": 88,
+        "duration_frames": 10,
+        "start_time_sec": 3.12,
+        "end_time_sec": 3.48,
+        "duration_sec": 0.4
+      }
+    ],
+    "clips": [
+      {
+        "event_index": 1,
+        "clip_path": "history\\reports\\20260602_191503\\clips\\event_001_28_90.mp4",
+        "start_frame": 28,
+        "end_frame": 90,
+        "start_time_sec": 1.08,
+        "end_time_sec": 3.56
+      },
+      {
+        "event_index": 2,
+        "clip_path": "history\\reports\\20260602_191503\\clips\\event_002_54_113.mp4",
+        "start_frame": 54,
+        "end_frame": 113,
+        "start_time_sec": 2.12,
+        "end_time_sec": 4.48
+      }
+    ],
+    "settings": {
+      "conf": 0.5,
+      "imgsz": 640,
+      "iou": 0.5,
+      "min_consecutive": 10
+    },
+    "performance": {
+      "elapsed_sec": 10.623594284057617,
+      "fps_processing": 23.532525180782226,
+      "sec_per_frame": 0.04249437713623047
+    },
+    "report_json_path": "history\\reports\\20260602_191503\\report.json"
+  },
+  {
+    "report_id": "20260602_191220",
+    "created_at": "2026-06-02 19:12:23",
+    "source_video": "C:\\Users\\maksi\\Downloads\\Gun_Action_Recognition_Dataset\\Gun_Action_Recognition_Dataset\\Machine_Gun\\PCW9_C2_P5_V3_HB_2\\video.mp4",
+    "report_dir": "history\\reports\\20260602_191220",
+    "processed_video_path": "history\\reports\\20260602_191220\\processed_video.mp4",
+    "has_person_with_weapon": true,
+    "events": [
+      {
+        "start_frame": 151,
+        "end_frame": 166,
+        "duration_frames": 16,
+        "start_time_sec": 5.0,
+        "end_time_sec": 5.5,
+        "duration_sec": 0.5333333333333333
+      },
+      {
+        "start_frame": 173,
+        "end_frame": 201,
+        "duration_frames": 29,
+        "start_time_sec": 5.733333333333333,
+        "end_time_sec": 6.666666666666667,
+        "duration_sec": 0.9666666666666667
+      },
+      {
+        "start_frame": 207,
+        "end_frame": 310,
+        "duration_frames": 104,
+        "start_time_sec": 6.866666666666666,
+        "end_time_sec": 10.3,
+        "duration_sec": 3.466666666666667
+      }
+    ],
+    "clips": [
+      {
+        "event_index": 1,
+        "clip_path": "history\\reports\\20260602_191220\\clips\\event_001_121_196.mp4",
+        "start_frame": 121,
+        "end_frame": 196,
+        "start_time_sec": 4.0,
+        "end_time_sec": 6.5
+      },
+      {
+        "event_index": 2,
+        "clip_path": "history\\reports\\20260602_191220\\clips\\event_002_143_231.mp4",
+        "start_frame": 143,
+        "end_frame": 231,
+        "start_time_sec": 4.733333333333333,
+        "end_time_sec": 7.666666666666667
+      },
+      {
+        "event_index": 3,
+        "clip_path": "history\\reports\\20260602_191220\\clips\\event_003_177_330.mp4",
+        "start_frame": 177,
+        "end_frame": 330,
+        "start_time_sec": 5.866666666666666,
+        "end_time_sec": 10.966666666666667
+      }
+    ],
+    "settings": {
+      "conf": 0.5,
+      "imgsz": 640,
+      "iou": 0.5,
+      "min_consecutive": 10
+    },
+    "performance": {
+      "elapsed_sec": 17.41286873817444,
+      "fps_processing": 18.951501039948525,
+      "sec_per_frame": 0.052766268903558906
+    },
+    "report_json_path": "history\\reports\\20260602_191220\\report.json"
+  },
+  {
+    "report_id": "20260602_190723",
+    "created_at": "2026-06-02 19:07:26",
+    "source_video": "C:\\Users\\maksi\\Downloads\\Gun_Action_Recognition_Dataset\\Gun_Action_Recognition_Dataset\\Machine_Gun\\PCW7_C2_P5_V4_HB_2\\video.mp4",
+    "report_dir": "history\\reports\\20260602_190723",
+    "processed_video_path": "history\\reports\\20260602_190723\\processed_video.mp4",
+    "has_person_with_weapon": true,
+    "events": [
+      {
+        "start_frame": 150,
+        "end_frame": 159,
+        "duration_frames": 10,
+        "start_time_sec": 4.966666666666667,
+        "end_time_sec": 5.266666666666667,
+        "duration_sec": 0.3333333333333333
+      },
+      {
+        "start_frame": 174,
+        "end_frame": 226,
+        "duration_frames": 53,
+        "start_time_sec": 5.766666666666667,
+        "end_time_sec": 7.5,
+        "duration_sec": 1.7666666666666666
+      },
+      {
+        "start_frame": 238,
+        "end_frame": 269,
+        "duration_frames": 32,
+        "start_time_sec": 7.9,
+        "end_time_sec": 8.933333333333334,
+        "duration_sec": 1.0666666666666667
+      }
+    ],
+    "clips": [
+      {
+        "event_index": 1,
+        "clip_path": "history\\reports\\20260602_190723\\clips\\event_001_120_189.mp4",
+        "start_frame": 120,
+        "end_frame": 189,
+        "start_time_sec": 3.966666666666667,
+        "end_time_sec": 6.266666666666667
+      },
+      {
+        "event_index": 2,
+        "clip_path": "history\\reports\\20260602_190723\\clips\\event_002_144_256.mp4",
+        "start_frame": 144,
+        "end_frame": 256,
+        "start_time_sec": 4.766666666666667,
+        "end_time_sec": 8.5
+      },
+      {
+        "event_index": 3,
+        "clip_path": "history\\reports\\20260602_190723\\clips\\event_003_208_299.mp4",
+        "start_frame": 208,
+        "end_frame": 299,
+        "start_time_sec": 6.9,
+        "end_time_sec": 9.933333333333334
+      }
+    ],
+    "settings": {
+      "conf": 0.5,
+      "imgsz": 640,
+      "iou": 0.5,
+      "min_consecutive": 10
+    },
+    "performance": {
+      "elapsed_sec": 17.54726767539978,
+      "fps_processing": 18.806346726142454,
+      "sec_per_frame": 0.05317353841030237
+    },
+    "report_json_path": "history\\reports\\20260602_190723\\report.json"
+  },
+  {
+    "report_id": "20260602_175721",
+    "created_at": "2026-06-02 17:57:23",
+    "source_video": "C:\\Users\\maksi\\Downloads\\Gun_Action_Recognition_Dataset\\Gun_Action_Recognition_Dataset\\Machine_Gun\\PCW9_C2_P5_V4_HB_2\\video.mp4",
+    "report_dir": "history\\reports\\20260602_175721",
+    "processed_video_path": "history\\reports\\20260602_175721\\processed_video.mp4",
+    "has_person_with_weapon": true,
+    "events": [
+      {
+        "start_frame": 81,
+        "end_frame": 275,
+        "duration_frames": 195,
+        "start_time_sec": 2.6666666666666665,
+        "end_time_sec": 9.133333333333333,
+        "duration_sec": 6.5
+      }
+    ],
+    "clips": [
+      {
+        "event_index": 1,
+        "clip_path": "history\\reports\\20260602_175721\\clips\\event_001_51_300.mp4",
+        "start_frame": 51,
+        "end_frame": 300,
+        "start_time_sec": 1.6666666666666667,
+        "end_time_sec": 9.966666666666667
+      }
+    ],
+    "settings": {
+      "conf": 0.5,
+      "imgsz": 640,
+      "iou": 0.5,
+      "min_consecutive": 10
+    },
+    "performance": {
+      "elapsed_sec": 13.331047773361206,
+      "fps_processing": 22.503857543701525,
+      "sec_per_frame": 0.04443682591120402
+    },
+    "report_json_path": "history\\reports\\20260602_175721\\report.json"
+  },
+  {
+    "report_id": "20260602_175447",
+    "created_at": "2026-06-02 17:54:49",
+    "source_video": "C:\\Users\\maksi\\Downloads\\Gun_Action_Recognition_Dataset\\Gun_Action_Recognition_Dataset\\Machine_Gun\\PCW9_C2_P5_V4_HB_2\\video.mp4",
+    "report_dir": "history\\reports\\20260602_175447",
+    "processed_video_path": "history\\reports\\20260602_175447\\processed_video.mp4",
+    "has_person_with_weapon": true,
+    "events": [
+      {
+        "start_frame": 81,
+        "end_frame": 275,
+        "duration_frames": 195,
+        "start_time_sec": 2.6666666666666665,
+        "end_time_sec": 9.133333333333333,
+        "duration_sec": 6.5
+      }
+    ],
+    "clips": [
+      {
+        "event_index": 1,
+        "clip_path": "history\\reports\\20260602_175447\\clips\\event_001_51_300.mp4",
+        "start_frame": 51,
+        "end_frame": 300,
+        "start_time_sec": 1.6666666666666667,
+        "end_time_sec": 9.966666666666667
+      }
+    ],
+    "settings": {
+      "conf": 0.5,
+      "imgsz": 640,
+      "iou": 0.5,
+      "min_consecutive": 10
+    },
+    "performance": {
+      "elapsed_sec": 13.006057500839233,
+      "fps_processing": 23.066175124986344,
+      "sec_per_frame": 0.04335352500279745
+    },
+    "report_json_path": "history\\reports\\20260602_175447\\report.json"
+  },
+  {
+    "report_id": "20260602_175429",
+    "created_at": "2026-06-02 17:54:32",
+    "source_video": "C:\\Users\\maksi\\Downloads\\Gun_Action_Recognition_Dataset\\Gun_Action_Recognition_Dataset\\Machine_Gun\\PCW9_C2_P5_V4_HB_2\\video.mp4",
+    "report_dir": "history\\reports\\20260602_175429",
+    "processed_video_path": "history\\reports\\20260602_175429\\processed_video.mp4",
+    "has_person_with_weapon": true,
+    "events": [
+      {
+        "start_frame": 81,
+        "end_frame": 275,
+        "duration_frames": 195,
+        "start_time_sec": 2.6666666666666665,
+        "end_time_sec": 9.133333333333333,
+        "duration_sec": 6.5
+      }
+    ],
+    "clips": [
+      {
+        "event_index": 1,
+        "clip_path": "history\\reports\\20260602_175429\\clips\\event_001_51_300.mp4",
+        "start_frame": 51,
+        "end_frame": 300,
+        "start_time_sec": 1.6666666666666667,
+        "end_time_sec": 9.966666666666667
+      }
+    ],
+    "settings": {
+      "conf": 0.5,
+      "imgsz": 640,
+      "iou": 0.5,
+      "min_consecutive": 10
+    },
+    "performance": {
+      "elapsed_sec": 11.976109027862549,
+      "fps_processing": 25.04987214979813,
+      "sec_per_frame": 0.0399203634262085
+    },
+    "report_json_path": "history\\reports\\20260602_175429\\report.json"
+  },
+  {
+    "report_id": "20260602_175341",
+    "created_at": "2026-06-02 17:53:41",
+    "source_video": "C:\\Users\\maksi\\Downloads\\Gun_Action_Recognition_Dataset\\Gun_Action_Recognition_Dataset\\Machine_Gun\\PAW1_C1_P2_V1_HB_3\\video.mp4",
+    "report_dir": "history\\reports\\20260602_175341",
+    "processed_video_path": "history\\reports\\20260602_175341\\processed_video.mp4",
+    "has_person_with_weapon": true,
+    "events": [
+      {
+        "start_frame": 146,
+        "end_frame": 164,
+        "duration_frames": 19,
+        "start_time_sec": 5.8,
+        "end_time_sec": 6.52,
+        "duration_sec": 0.76
+      },
+      {
+        "start_frame": 169,
+        "end_frame": 182,
+        "duration_frames": 14,
+        "start_time_sec": 6.72,
+        "end_time_sec": 7.24,
+        "duration_sec": 0.56
+      }
+    ],
+    "clips": [
+      {
+        "event_index": 1,
+        "clip_path": "history\\reports\\20260602_175341\\clips\\event_001_121_189.mp4",
+        "start_frame": 121,
+        "end_frame": 189,
+        "start_time_sec": 4.8,
+        "end_time_sec": 7.52
+      },
+      {
+        "event_index": 2,
+        "clip_path": "history\\reports\\20260602_175341\\clips\\event_002_144_207.mp4",
+        "start_frame": 144,
+        "end_frame": 207,
+        "start_time_sec": 5.72,
+        "end_time_sec": 8.24
+      }
+    ],
+    "settings": {
+      "conf": 0.5,
+      "imgsz": 640,
+      "iou": 0.5,
+      "min_consecutive": 10
+    },
+    "performance": {
+      "elapsed_sec": 8.082420110702515,
+      "fps_processing": 30.93132954929638,
+      "sec_per_frame": 0.03232968044281006
+    },
+    "report_json_path": "history\\reports\\20260602_175341\\report.json"
+  },
+  {
+    "report_id": "20260531_005538",
+    "created_at": "2026-05-31 00:55:39",
+    "source_video": "C:\\Users\\maksi\\Downloads\\Gun_Action_Recognition_Dataset\\Gun_Action_Recognition_Dataset\\No_Gun\\N1_C1_P4_V1_HB_1\\video.mp4",
+    "report_dir": "history\\reports\\20260531_005538",
+    "processed_video_path": "history\\reports\\20260531_005538\\processed_video.mp4",
+    "has_person_with_weapon": true,
+    "events": [
+      {
+        "start_frame": 2,
+        "end_frame": 42,
+        "duration_frames": 41,
+        "start_time_sec": 0.04,
+        "end_time_sec": 1.64,
+        "duration_sec": 1.64
+      },
+      {
+        "start_frame": 44,
+        "end_frame": 72,
+        "duration_frames": 29,
+        "start_time_sec": 1.72,
+        "end_time_sec": 2.84,
+        "duration_sec": 1.16
+      },
+      {
+        "start_frame": 75,
+        "end_frame": 97,
+        "duration_frames": 23,
+        "start_time_sec": 2.96,
+        "end_time_sec": 3.84,
+        "duration_sec": 0.92
+      },
+      {
+        "start_frame": 130,
+        "end_frame": 150,
+        "duration_frames": 21,
+        "start_time_sec": 5.16,
+        "end_time_sec": 5.96,
+        "duration_sec": 0.84
+      }
+    ],
+    "clips": [
+      {
+        "event_index": 1,
+        "clip_path": "history\\reports\\20260531_005538\\clips\\event_001_1_67.mp4",
+        "start_frame": 1,
+        "end_frame": 67,
+        "start_time_sec": 0.0,
+        "end_time_sec": 2.64
+      },
+      {
+        "event_index": 2,
+        "clip_path": "history\\reports\\20260531_005538\\clips\\event_002_19_97.mp4",
+        "start_frame": 19,
+        "end_frame": 97,
+        "start_time_sec": 0.72,
+        "end_time_sec": 3.84
+      },
+      {
+        "event_index": 3,
+        "clip_path": "history\\reports\\20260531_005538\\clips\\event_003_50_122.mp4",
+        "start_frame": 50,
+        "end_frame": 122,
+        "start_time_sec": 1.96,
+        "end_time_sec": 4.84
+      },
+      {
+        "event_index": 4,
+        "clip_path": "history\\reports\\20260531_005538\\clips\\event_004_105_150.mp4",
+        "start_frame": 105,
+        "end_frame": 150,
+        "start_time_sec": 4.16,
+        "end_time_sec": 5.96
+      }
+    ],
+    "settings": {
+      "conf": 0.5,
+      "imgsz": 640,
+      "iou": 0.5,
+      "min_consecutive": 10
+    },
+    "performance": {
+      "elapsed_sec": 4.8483452796936035,
+      "fps_processing": 30.93839059446678,
+      "sec_per_frame": 0.03232230186462402
+    },
+    "report_json_path": "history\\reports\\20260531_005538\\report.json"
+  },
+  {
+    "report_id": "20260531_004452",
+    "created_at": "2026-05-31 00:44:53",
+    "source_video": "C:\\Users\\maksi\\Downloads\\Gun_Action_Recognition_Dataset\\Gun_Action_Recognition_Dataset\\No_Gun\\N1_C1_P2_V1_HB_1\\video.mp4",
+    "report_dir": "history\\reports\\20260531_004452",
+    "processed_video_path": "history\\reports\\20260531_004452\\processed_video.mp4",
+    "has_person_with_weapon": true,
+    "events": [
+      {
+        "start_frame": 13,
+        "end_frame": 153,
+        "duration_frames": 141,
+        "start_time_sec": 0.48,
+        "end_time_sec": 6.08,
+        "duration_sec": 5.64
+      }
+    ],
+    "clips": [
+      {
+        "event_index": 1,
+        "clip_path": "history\\reports\\20260531_004452\\clips\\event_001_1_178.mp4",
+        "start_frame": 1,
+        "end_frame": 178,
+        "start_time_sec": 0.0,
+        "end_time_sec": 7.08
+      }
+    ],
+    "settings": {
+      "conf": 0.5,
+      "imgsz": 640,
+      "iou": 0.5,
+      "min_consecutive": 10
+    },
+    "performance": {
+      "elapsed_sec": 6.563813209533691,
+      "fps_processing": 30.470093163149055,
+      "sec_per_frame": 0.03281906604766846
+    },
+    "report_json_path": "history\\reports\\20260531_004452\\report.json"
+  }
+]

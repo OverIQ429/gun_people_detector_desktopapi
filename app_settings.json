@@ -1,0 +1,19 @@
+{
+  "inference": {
+    "conf": 0.5,
+    "imgsz": 640,
+    "iou": 0.5,
+    "min_consecutive": 10,
+    "save_history": true,
+    "export_processed_video": true
+  },
+  "email": {
+    "enabled": false,
+    "smtp_host": "smtp.gmail.com",
+    "smtp_port": 587,
+    "use_tls": true,
+    "sender_email": "",
+    "sender_password": "",
+    "recipient_email": ""
+  }
+}

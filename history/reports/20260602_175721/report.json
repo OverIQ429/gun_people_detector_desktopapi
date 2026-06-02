@@ -1,0 +1,39 @@
+{
+  "report_id": "20260602_175721",
+  "created_at": "2026-06-02 17:57:23",
+  "source_video": "C:\\Users\\maksi\\Downloads\\Gun_Action_Recognition_Dataset\\Gun_Action_Recognition_Dataset\\Machine_Gun\\PCW9_C2_P5_V4_HB_2\\video.mp4",
+  "report_dir": "history\\reports\\20260602_175721",
+  "processed_video_path": "history\\reports\\20260602_175721\\processed_video.mp4",
+  "has_person_with_weapon": true,
+  "events": [
+    {
+      "start_frame": 81,
+      "end_frame": 275,
+      "duration_frames": 195,
+      "start_time_sec": 2.6666666666666665,
+      "end_time_sec": 9.133333333333333,
+      "duration_sec": 6.5
+    }
+  ],
+  "clips": [
+    {
+      "event_index": 1,
+      "clip_path": "history\\reports\\20260602_175721\\clips\\event_001_51_300.mp4",
+      "start_frame": 51,
+      "end_frame": 300,
+      "start_time_sec": 1.6666666666666667,
+      "end_time_sec": 9.966666666666667
+    }
+  ],
+  "settings": {
+    "conf": 0.5,
+    "imgsz": 640,
+    "iou": 0.5,
+    "min_consecutive": 10
+  },
+  "performance": {
+    "elapsed_sec": 13.331047773361206,
+    "fps_processing": 22.503857543701525,
+    "sec_per_frame": 0.04443682591120402
+  }
+}
