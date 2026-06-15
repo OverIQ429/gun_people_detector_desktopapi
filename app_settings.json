@@ -8,12 +8,12 @@
     "export_processed_video": true
   },
   "email": {
-    "enabled": false,
-    "smtp_host": "smtp.gmail.com",
+    "enabled": true,
+    "smtp_host": "smtp.mail.ru",
     "smtp_port": 587,
     "use_tls": true,
-    "sender_email": "",
-    "sender_password": "",
-    "recipient_email": ""
+    "sender_email": "maksim.rylkin@mail.ru",
+    "sender_password": "228322Max",
+    "recipient_email": "maksim.rylkin@mail.ru"
   }
 }
